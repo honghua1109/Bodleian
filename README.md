@@ -1,5 +1,6 @@
 # Bodleian
 보들리언, 보들리언 도서관(Bodleian Library)은 영국에서 가장 오래된 도서관입니다. 보들리언 도서관처럼 오래남을 온라인 도서관을 짓고자 이 프로젝트를 시작하게되었습니다.단 상업적인 용도로 사용은 금하는 바 입니다. 또 프로젝트 관련해서 개발의뢰는 일체 받지않으니 참고해주세요.
+
 ![image of bodleian](https://jenniguenther.files.wordpress.com/2014/09/23jpoxford3-articlelarge.jpg)
 
 # 데모
